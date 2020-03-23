@@ -1,6 +1,14 @@
 import {Platform} from "react-native";
 
 export let font = Platform.OS === 'ios' ? 'HelveticaNeue' : 'Roboto';
+
+// export let boldFont = 'Dosis-ExtraBold';
+export let boldFont = 'Dosis-Bold';
+export let semiBoldFont = 'Dosis-SemiBold';
+export let mediumFont = 'Dosis-Medium';
+export let regularFont = 'Dosis-Regular';
+
+
 export let titleColor = '#363434';
 
 //Nav Shared Styles
