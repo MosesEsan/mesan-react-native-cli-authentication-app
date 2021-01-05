@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-basic-form": "^1.0.7",
