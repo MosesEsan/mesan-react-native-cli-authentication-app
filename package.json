@@ -13,7 +13,7 @@
     "@react-native-community/masked-view": "^0.1.7",
     "axios": "^0.19.2",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-basic-form": "^1.0.7",
     "react-native-elements": "^1.2.7",
     "react-native-gesture-handler": "^1.6.0",
